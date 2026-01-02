@@ -1,0 +1,7 @@
+{
+  "name": "Lao Smart Tools",
+  "description": "ລວມເຄື່ອງມືອັດສະລິຍະ: ແປງຂໍ້ມູນ, ຫຍໍ້ຄວາມ, ຄິດໄລ່ຄະແນນ, ແລະ ລາຍການທີ່ຕ້ອງເຮັດ (All-in-one Smart Tools for Lao)",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
